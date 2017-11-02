@@ -1,0 +1,36 @@
+.body{
+    font-family: -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    padding: 0px;
+    margin: 0px;
+   }
+  
+   .container-head-gray{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    background-color: gray;
+}
+
+    .blok-header{
+     text-align: center;
+     width: 80%;
+}
+
+    .blok-tel{
+     font-size: 20px;
+}
+
+.container-head-pink{
+    background-color: pink;
+    display: flex;
+}
+.navigation ul{
+    list-style-type: none;
+    text-decoration: none;
+}
+     
+      
+   
+   
