@@ -81,7 +81,7 @@ body{
 .centered-top{
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: center;
     align-items: stretch;
     flex-wrap: wrap;
     width: 100%;
@@ -89,7 +89,7 @@ body{
 }
 
 .centered-top-left{
-   flex-basis: 1150px;;
+   flex-basis: 1150px;
    background-color: #bfbfbf;
    margin: 10px 0 0 15px;
    margin: 0 auto;
@@ -136,6 +136,8 @@ body{
 .nav{
     text-align: center;
    padding: 20px 0 50px;
+  
+  
 }
 
 .list{
